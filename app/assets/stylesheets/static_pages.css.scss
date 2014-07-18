@@ -1,0 +1,50 @@
+// Place all the styles related to the static_pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+.img-circle {
+    width:200px; /* you can use % */
+    height: auto;
+}
+
+.sidebar {
+    float: left;
+    display: block;
+}
+
+.paragraphs {
+  display: inline-block;
+}
+
+
+#home-header {
+  text-align: center;
+}
+
+body {
+  background-image:url('http://i104.photobucket.com/albums/m172/Kairi_KoH/Backgrounds/animal.gif');
+  font-family: "Fantasy";
+}
+
+button {
+  float: right;
+}
+
+h1 {
+  text-align: center;
+}
+
+#welcome-text {
+  text-align: center;
+  font-size: large;
+}
+
+.center {
+  text-align: center;
+  font-size: large;
+}
+
+.row {
+  vertical-align: top;
+}
